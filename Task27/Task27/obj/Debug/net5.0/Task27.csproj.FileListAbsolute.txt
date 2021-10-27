@@ -1,0 +1,16 @@
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\bin\Debug\net5.0\Task27.exe
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\bin\Debug\net5.0\Task27.deps.json
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\bin\Debug\net5.0\Task27.runtimeconfig.json
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\bin\Debug\net5.0\Task27.runtimeconfig.dev.json
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\bin\Debug\net5.0\Task27.dll
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\bin\Debug\net5.0\ref\Task27.dll
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\bin\Debug\net5.0\Task27.pdb
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\obj\Debug\net5.0\Task27.csproj.AssemblyReference.cache
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\obj\Debug\net5.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\obj\Debug\net5.0\Task27.AssemblyInfoInputs.cache
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\obj\Debug\net5.0\Task27.AssemblyInfo.cs
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\obj\Debug\net5.0\Task27.csproj.CoreCompileInputs.cache
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\obj\Debug\net5.0\Task27.dll
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\obj\Debug\net5.0\ref\Task27.dll
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\obj\Debug\net5.0\Task27.pdb
+C:\Users\DoctorCOMP\OneDrive\Рабочий стол\CodeAcademy\homework\Task27\Task27\obj\Debug\net5.0\Task27.genruntimeconfig.cache
